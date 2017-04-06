@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bidang jasa="JNE" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Tugas.xsd">
+	<nama>Ajrina Darman</nama>
+	<kode>1</kode>
+	<tanggal>06-04-2017</tanggal>
+	<jenispengiriman>yes</jenispengiriman>
+	<harga>RP: 20000</harga>
+	<jeniskelamin>perempuan</jeniskelamin>
+	<email>ajrinadarman20@gmail.com</email>
+	<kontak>085255838670</kontak>
+	<alamatpengirim nama="Bandung"></alamatpengirim>
+	<alamatpenerima nama="Bulukumba">
+		<alamat>jl. sungai je'ne berang no.09 Bulukumba</alamat>
+	</alamatpenerima>
+	
+	<nama>indah rahmawati</nama>
+	<kode>2</kode>
+	<tanggal>15-04-2017</tanggal>
+	<jenispengiriman>ok</jenispengiriman>
+	<harga>RP: 250000</harga>
+	<jeniskelamin>Perempuan</jeniskelamin>
+	<email>indahrahmawati@gmail.com</email>
+	<kontak>082311858760</kontak>
+	<alamatpengirim nama="jakarta"></alamatpengirim>
+	<alamatpenerima nama="palembang">
+		<alamat>jl. singedekani no.01</alamat>
+	</alamatpenerima>
+	
+	<nama>Rafikatul Hikma</nama>
+	<kode>3</kode>
+	<tanggal>19-04-2017</tanggal>
+	<jenispengiriman>ok</jenispengiriman>
+	<harga>RP: 200000</harga>
+	<jeniskelamin>Perempuan</jeniskelamin>
+	<email>rafikatulhikma07@gmail.com</email>
+	<kontak>082311756115</kontak>
+	<alamatpengirim nama="Bandung"></alamatpengirim>
+	<alamatpenerima nama="Palu">
+		<alamat>jl. fadila no.07</alamat>
+	</alamatpenerima>
+	
+	<nama>Andi syajaratu</nama>
+	<kode>4</kode>
+	<tanggal>22-04-2017</tanggal>
+	<jenispengiriman>yes</jenispengiriman>
+	<harga>RP: 300000</harga>
+	<jeniskelamin>perempuan</jeniskelamin>
+	<email>syaratudaur@gmail.com</email>
+	<kontak>081255345170</kontak>
+	<alamatpengirim nama="Sukabumi"></alamatpengirim>
+	<alamatpenerima nama="Bulukumba">
+		<alamat>jl. rambutan no.22</alamat>
+	</alamatpenerima>
+	
+	<nama>Alfarabi</nama>
+	<kode>5</kode>
+	<tanggal>28-04-2017</tanggal>
+	<jenispengiriman>yes</jenispengiriman>
+	<harga>RP: 500000</harga>
+	<jeniskelamin>Laki Laki</jeniskelamin>
+	<email>Alfarabi20@gmail.com</email>
+	<kontak>085255506717</kontak>
+	<alamatpengirim nama="Cirebon"></alamatpengirim>
+	<alamatpenerima nama="Bone">
+		<alamat>jl. bintarore no.20</alamat>
+   </alamatpenerima>
+</Bidang>
